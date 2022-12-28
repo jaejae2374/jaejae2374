@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=300&section=header&text=Nice%20to%20meet%20you%20!&desc=Jaehyun's%20Profile&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=300&section=header&text=Jaehyun's%20Profile&desc=Nice%20to%20meet%20you%20!&fontSize=90&descAlignY=80)
 
 <!--
 **jaejae2374/jaejae2374** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
