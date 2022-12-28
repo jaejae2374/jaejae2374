@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=300&section=header&text=Jaehyun's%20Profile&desc=Nice%20to%20meet%20you%20!&fontSize=60&descAlignY=70)
 
-###I AM
+###I AM###
 
 ###Education 🎓
 
